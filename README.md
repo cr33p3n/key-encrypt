@@ -5,7 +5,6 @@ Features
 
     Symmetric encryption: Encrypt and decrypt data using the same key.
     Asymmetric encryption: Use a public and private key pair for encrypting and decrypting messages.
-    Support for different encryption algorithms: Includes support for AES, RSA, and other common cryptographic techniques.
     Key generation and management: Utilities to securely generate and store keys.
 
 Getting Started
