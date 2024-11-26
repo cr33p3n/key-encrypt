@@ -14,17 +14,7 @@ Getting Started
 
 git clone https://github.com/cr33p3n/key-encrypt.git
 
-Install the required dependencies:
-
-pip install -r requirements.txt
-
-Run the encryption script:
-
-    cryptography.exe
-
-Examples
-
-    Symmetric encryption example: Encrypt and decrypt data using a your key
+.exe can dont work how .cpp which you build by yourself because i dont update .exe
 
 Contributing
 
